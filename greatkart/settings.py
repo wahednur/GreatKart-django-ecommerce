@@ -44,7 +44,8 @@ THIRD_PARTY_APPS = []
 SITE_APPS = [
     'category',
     'accounts',
-    'product'
+    'product',
+    'carts',
 ]
 
 INSTALLED_APPS = DEAFULT_APPS + THIRD_PARTY_APPS + SITE_APPS

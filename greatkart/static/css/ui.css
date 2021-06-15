@@ -11,6 +11,7 @@ html {
 INCLUDE STYLES AND COMPONENTS
 ===================== */
 /* ================== HELPERS  =================== */
+
 a:hover {
   text-decoration: none;
 }
@@ -1412,4 +1413,7 @@ a[class*=card]:hover .title {
   display: block;
 }
 
+span.bdt {
+  font-weight: bolder;
+}
 /*# sourceMappingURL=ui.css.map */

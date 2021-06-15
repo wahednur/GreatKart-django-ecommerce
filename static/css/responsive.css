@@ -80,7 +80,7 @@
     flex-direction: column;
   }
 }
-.bdi{
-  font-size: 18px;
+span.bdt {
+  font-weight: bolder;
 }
 /*# sourceMappingURL=responsive.css.map */

@@ -1,0 +1,18 @@
+span.bdt {
+    font-weight: bolder;
+}
+
+.empty-cart{
+    width: 100% !important;
+    display: block;
+    
+}
+h4.cart-empty-link {
+    text-align: center !important;
+    width: 100% !important;
+}
+
+.cart-empty {
+    text-align: center !important;
+    width: 100% !important;
+}
